@@ -3,6 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+.. meta::
+   :description lang=fr: Introduction à VUE.JS par l'exemple : événements, directives, slots, plugins, requêtes HTTP, routage et navigation, plugin Vuex
+
 INTRODUCTION AU FRAMEWORK VUE.JS PAR L'EXEMPLE
 ----------------------------------------------
 
