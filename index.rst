@@ -12,7 +12,7 @@ INTRODUCTION AU FRAMEWORK VUE.JS PAR L'EXEMPLE
 Auteur
 ------
 
-Serge Tahé, octobre 2019, serge.tahe@gmail.com
+Serge Tahé, octobre 2019, https://sergetahe.com
 
 Licence
 -------
