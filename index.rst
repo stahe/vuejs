@@ -22,16 +22,15 @@ Licence
 Téléchargements
 ---------------
 
-\ `Téléchargement du PDF du cours <https://tahe.developpez.com/tutoriels-cours/vuejs/documents/vuejs.pdf>`_\
+\ `Téléchargement du PDF du cours <http://sergetahe.com/cours-tutoriels-de-programmation/wp-content/uploads/documents/php7-ecmascript6-vuejs-nuxtjs/vuejs.pdf>`_\
 
-\ `Téléchargement des exemples du cours (rar) <https://tahe.developpez.com/tutoriels-cours/vuejs/documents/vuejs.rar>`_\
+\ `Téléchargement des exemples du cours (rar) <http://sergetahe.com/cours-tutoriels-de-programmation/wp-content/uploads/documents/php7-ecmascript6-vuejs-nuxtjs/vuejs.rar>`_\
 
 
 .. toctree::
    :maxdepth: 5
    :caption: Table des matières:
 
-   chap-01
    chap-02
    chap-03
    chap-04
